@@ -11,6 +11,7 @@ begin
     writeln('2 : Pengurangan');
     writeln('3 : Perkalian');
     writeln('4 : Pembagian');
+    writeln('5 : Perpangkatan');
 
     write('Masukkan Jenis Operasi : ');
     readln(operasi);
@@ -23,6 +24,7 @@ begin
         2:  writeln('komputer bingung : perlu diajarin');
         3:  writeln('komputer bingung : perlu diajarin');
         4:  writeln('komputer bingung : perlu diajarin');
+        5:  writeln('komputer bingung : perlu diajarin');
         else 
             writeln('Masukkan salah');
     end;
