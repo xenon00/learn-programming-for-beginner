@@ -5,4 +5,5 @@ begin
     readln(s);
     writeln('Hello ',s);
     writeln('Welcome');
+    writeln('Selamat menikmati');
 end.
